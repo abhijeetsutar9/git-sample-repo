@@ -1,2 +1,6 @@
 git status --> checks the status of file
+
+modifying
+
 username=abhijeetsutar
+
